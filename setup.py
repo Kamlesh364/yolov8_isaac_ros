@@ -28,7 +28,7 @@ setup(
             'Yolov8Decoder = yolov8_isaac_ros.Yolov8Decoder:main',
             'yolov8_visualizer = yolov8_isaac_ros.yolov8_visualizer:main',
             'image_publisher = yolov8_isaac_ros.image_publisher:main',
-            'ip_cam_publisher = yolov8_isaac_ros.ip_cam_neoapi:main'
+            'ip_cam_publisher = yolov8_isaac_ros.ip_cam_neoapi:main',
             'yolov8_engine_visualizer_external = yolov8_isaac_ros.yolov8_engine_visualizer_external:main',
         ],
     },
